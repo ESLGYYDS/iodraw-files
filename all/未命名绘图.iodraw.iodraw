@@ -15,11 +15,11 @@
         <mxCell id="faYnPupvUcRUz70gV4oG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="faYnPupvUcRUz70gV4oG-3" target="faYnPupvUcRUz70gV4oG-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="faYnPupvUcRUz70gV4oG-3" value="1M的稀盐酸清洗24h" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="faYnPupvUcRUz70gV4oG-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1M的稀盐酸清洗24h&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="faYnPupvUcRUz70gV4oG-5" value="抽滤并用去离子水清洗至ph=7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="faYnPupvUcRUz70gV4oG-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;抽滤并用去离子水清洗至ph=7&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="390" width="146" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -4,7 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="faYnPupvUcRUz70gV4oG-1" value="无水柠檬酸镁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="faYnPupvUcRUz70gV4oG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="faYnPupvUcRUz70gV4oG-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="faYnPupvUcRUz70gV4oG-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;无水柠檬酸镁&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;800℃烧2h&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

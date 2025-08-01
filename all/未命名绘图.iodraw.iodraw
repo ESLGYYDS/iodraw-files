@@ -4,28 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="faYnPupvUcRUz70gV4oG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="faYnPupvUcRUz70gV4oG-1" target="faYnPupvUcRUz70gV4oG-3">
+        <mxCell id="faYnPupvUcRUz70gV4oG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="faYnPupvUcRUz70gV4oG-1" target="faYnPupvUcRUz70gV4oG-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="faYnPupvUcRUz70gV4oG-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;无水柠檬酸镁&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;800℃烧2h&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="faYnPupvUcRUz70gV4oG-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;无水柠檬酸镁&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;800℃烧2h&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="faYnPupvUcRUz70gV4oG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="faYnPupvUcRUz70gV4oG-3" target="faYnPupvUcRUz70gV4oG-5">
+        <mxCell id="faYnPupvUcRUz70gV4oG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="faYnPupvUcRUz70gV4oG-3" target="faYnPupvUcRUz70gV4oG-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="faYnPupvUcRUz70gV4oG-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1M的稀盐酸清洗24h&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="faYnPupvUcRUz70gV4oG-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1M的稀盐酸清洗24h&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="faYnPupvUcRUz70gV4oG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="faYnPupvUcRUz70gV4oG-5" target="faYnPupvUcRUz70gV4oG-8">
+        <mxCell id="faYnPupvUcRUz70gV4oG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="faYnPupvUcRUz70gV4oG-5" target="faYnPupvUcRUz70gV4oG-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="faYnPupvUcRUz70gV4oG-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;抽滤并用去离子水清洗至ph=7&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="faYnPupvUcRUz70gV4oG-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;抽滤并用去离子水清洗至ph=7&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="341" y="390" width="146" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="faYnPupvUcRUz70gV4oG-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;装电池进行测试&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="faYnPupvUcRUz70gV4oG-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;装电池进行测试&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hRxc7rzUep8WbNGXrmd8-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;装电池进行测试&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AKrGTm2NvKD8cjsLmnk1-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="290" width="120" height="290" as="geometry" />
-        </mxCell>
         <mxCell id="AKrGTm2NvKD8cjsLmnk1-14" value="&lt;span style=&quot;font-size: 18pt; font-family: &amp;quot;Microsoft YaHei&amp;quot;;&quot;&gt;多孔碳材料优势&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="400" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AKrGTm2NvKD8cjsLmnk1-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
